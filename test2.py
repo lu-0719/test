@@ -1,2 +1,0 @@
-class ccar():
-    pass
